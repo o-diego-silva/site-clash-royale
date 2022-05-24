@@ -3,7 +3,7 @@
 
 body {
     background-color: hsl(189, 73%, 30%);
-    color: hsl(293, 96%, 75%);
+    color: hsl(293, 80%, 75%);
     font-size: 19px;
     font-family: Calibri;
 }
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
     background-color: #0A7E87;
-    color: hsl(302, 100%, 50%);
+    color: hsl(302, 75%, 50%);
     text-align: left;
     font-size: 1.2em;
 }
