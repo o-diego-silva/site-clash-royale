@@ -1,8 +1,12 @@
 @charset "UTF-8";
 
 
+* {
+    height: auto;
+}
+
 body {
-    background-color: hsl(189, 73%, 30%);
+    background-image: linear-gradient(180deg, #2592A4, #107781, #2E6A7A, #162F42, #181E2B);
     color: hsl(293, 60%, 75%);
     font-size: 19px;
     font-family: Calibri;
